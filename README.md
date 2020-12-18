@@ -4,6 +4,7 @@ The code was created jointly by Jemil Butt and Zan Gojci ( both ETH Zurich, Inst
 There are tutorials on
 1. Supervised learning: Regression
 2. Supervised learning: Classification
-3. Unsupervised learning: Independent component analysis
+3. Unsupervised learning: Clustering
 4. Unsupervised learning: Dimensionality reduction
-5. Methods: Training of neural networks
+5. Unsupervised learning: Independent component analysis
+6. Methods: Training of neural networks
